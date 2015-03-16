@@ -1,0 +1,8 @@
+gnuboy-gx
+A port of Gnuboy for the Nintendo Gamecube/Wii
+
+This is a port of Gnuboy, a Gameboy/Gameboy Color emulator originally created by Laguna & Gilgamesh, running on the Gamecube and Wii using libogc development library.
+
+Go HERE (http://www.tehskeen.com/forums/showthread.php?t=4443) for additional informations.
+
+(Saved: March 15, 2015)
